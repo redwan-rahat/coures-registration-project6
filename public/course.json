@@ -1,0 +1,75 @@
+[
+      {
+        "id": 1,
+        "title": "Introduction to Computer Science",
+        "description": "Explore the fundamentals of computer science in this introductory course.",
+        "price": 7500,
+        "credit_hour": 5,
+        "image": "https://i.postimg.cc/HxFR1BqM/Rectangle-2-4.png"
+      },
+      {
+        "id": 2,
+        "title": "Data Structures and Algorithms",
+        "description": "Learn about data structures and algorithms to solve complex problems efficiently.",
+        "price": 8500,
+        "credit_hour": 4,
+        "image": "https://i.postimg.cc/TYJ7td3g/Rectangle-3.png"
+      },
+      {
+        "id": 3,
+        "title": "Web Development Fundamentals",
+        "description": "Master the basics of web development, including HTML, CSS, and JavaScript.",
+        "price": 9500,
+        "credit_hour": 7,
+        "image": "https://i.postimg.cc/nh1y9Km8/Rectangle-3-1.png"
+      },
+      {
+        "id": 4,
+        "title": "Database Management Systems",
+        "description": "Gain expertise in managing databases effectively for various applications.",
+        "price": 7500,
+        "credit_hour": 2,
+        "image": "https://i.postimg.cc/7P7QTMvB/Rectangle-2-1.png"
+      },
+      {
+        "id": 5,
+        "title": "Computer Networking Essentials",
+        "description": "Understand the principles of computer networking and how data is transmitted over networks.",
+        "price": 8000,
+        "credit_hour": 1,
+        "image": "https://i.postimg.cc/fTnpHqjn/Rectangle-2-6.png"
+      },
+      {
+        "id": 6,
+        "title": "Software Engineering Principles",
+        "description": "Learn about software development methodologies and best practices.",
+        "price": 9000,
+        "credit_hour": 10,
+        "image": "https://i.postimg.cc/XqwHS3cM/Rectangle-2-5.png"
+      },
+      {
+        "id": 7,
+        "title": "Cybersecurity Basics",
+        "description": "Explore the fundamentals of cybersecurity and how to protect systems from cyber threats.",
+        "price": 7000,
+        "credit_hour": 12,
+        "image": "https://i.postimg.cc/SR0Tvj97/Rectangle-2-3.png"
+      },
+      {
+        "id": 8,
+        "title": "Artificial Intelligence Fundamentals",
+        "description": "Discover the basics of artificial intelligence and its applications.",
+        "price": 10000,
+        "credit_hour": 5,
+        "image": "https://i.postimg.cc/L5ZDkS0Y/Rectangle-2.png"
+      },
+      {
+        "id": 9,
+        "title": "Mobile App Development",
+        "description": "Learn to develop mobile applications for iOS and Android platforms.",
+        "price": 8500,
+        "credit_hour": 8,
+        "image": "https://i.postimg.cc/x8H7fLQ4/Rectangle-2-2.png"
+      }
+    ]
+  

@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "portfolio-projects-rahat"
+  },
+  "targets": {
+    "portfolio-projects-rahat": {
+      "hosting": {
+        "coursereg": [
+          "course-registration-by-rahat"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
